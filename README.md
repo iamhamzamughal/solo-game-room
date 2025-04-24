@@ -30,6 +30,6 @@ Use the following credentials to log in and test the app:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/solo-game-room.git
+git clone https://github.com/iamhamzamughal/solo-game-room
 cd solo-game-room
 ```
